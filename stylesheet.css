@@ -1,0 +1,10 @@
+
+.slideshow-container {
+  max-width: 1000px;
+  margin: auto;
+  float: right;
+
+}
+.space-slide {
+    display: none;
+}
